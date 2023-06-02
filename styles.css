@@ -36,7 +36,8 @@ img:hover {
 }
 img{-webkit-transition: transform 0.2s ease;
   -o-transition: transform 0.2s ease;
-  transition: transform 0.2s ease;}
+  transition: transform 0.2s ease;
+}
 
 .intro{
   color: black;
